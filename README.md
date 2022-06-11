@@ -6,7 +6,7 @@
 
 ## Install
 
--   clone repo : https://github.com/ariefsetiadi/parking_system.git 
+-   clone repo
 -   composer install
 -   php artisan key:generate
 -   php artisan migrate (for migrate all table)
